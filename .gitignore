@@ -34,3 +34,4 @@
 *.mk
 
 Debug/*
+EWARM/stm32f103_can_test1/*
